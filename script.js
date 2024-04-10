@@ -19,11 +19,12 @@ let r = "Shipping & Returns";
 let s = "Shoe Care";
 let t = "Size Chart";
 let u = "Contact Us";
-let v = "CONTACT";
-let w = "CONTACT";
-let x = "CONTACT";
-let y = "CONTACT";
+let v = "PLASHOE";
+let w = "Shop";
+let x = "About";
+let y = "Need help?";
 let z = "CONTACT";
+
 
 document.getElementById('i1').innerHTML = a;
 document.getElementById('i2').innerHTML = b;
@@ -50,3 +51,4 @@ document.getElementById('i23').innerHTML = v;
 document.getElementById('i24').innerHTML = w;
 document.getElementById('i25').innerHTML = x;
 document.getElementById('i26').innerHTML = y;
+document.getElementById('i27').innerHTML = z;
